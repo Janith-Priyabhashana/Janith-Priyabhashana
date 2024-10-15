@@ -1,14 +1,14 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Janith Priyabhashana
 
 I'm a 17-year-old student passionate about web development and always eager to learn new technologies.
 
 ## 🌱 Currently learning
 - HTML, CSS, and JavaScript
-- [Any other technologies or frameworks you're learning]
+- Python
 
-## 💻 Projects
+<!-- ## 💻 Projects
 - [Project 1]: Brief description (coming soon)
-- [Project 2]: Brief description (coming soon)
+- [Project 2]: Brief description (coming soon) -->
 
 ## 🚀 Goals for [Current Year]
 - [ ] Build my first responsive website
@@ -16,9 +16,8 @@ I'm a 17-year-old student passionate about web development and always eager to l
 - [ ] Contribute to an open-source project
 
 ## 📫 How to reach me
-- GitHub: [@YourUsername](https://github.com/YourUsername)
-- [Any other social media or contact information you're comfortable sharing]
-
+- GitHub: [@Janith-Priyabhashana](https://github.com/Janith-Priyabhashana)
+  
 ---
 
-⭐️ From [YourUsername](https://github.com/YourUsername)
+⭐️ From [Janith-Priyabhashana](https://github.com/Janith-Priyabhashana)
