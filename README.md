@@ -1,16 +1,24 @@
-# Hi there 👋, Janith Priyabhashana
+# 👋 Hi there! I'm [Your Name]
 
-<!--
-**Janith-Priyabhashana/Janith-Priyabhashana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 17-year-old student passionate about web development and always eager to learn new technologies.
 
-Here are some ideas to get you started:
+## 🌱 Currently learning
+- HTML, CSS, and JavaScript
+- [Any other technologies or frameworks you're learning]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+- [Project 1]: Brief description (coming soon)
+- [Project 2]: Brief description (coming soon)
+
+## 🚀 Goals for [Current Year]
+- [ ] Build my first responsive website
+- [ ] Learn a JavaScript framework (e.g., React, Vue, or Angular)
+- [ ] Contribute to an open-source project
+
+## 📫 How to reach me
+- GitHub: [@YourUsername](https://github.com/YourUsername)
+- [Any other social media or contact information you're comfortable sharing]
+
+---
+
+⭐️ From [YourUsername](https://github.com/YourUsername)
