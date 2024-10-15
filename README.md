@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Janith Priyabhashana
 
-I'm a 17-year-old student passionate about web development and always eager to learn new technologies.
+I'm a student passionate about web development and always eager to learn new technologies.
 
 ## 🌱 Currently learning
 - HTML, CSS, and JavaScript
